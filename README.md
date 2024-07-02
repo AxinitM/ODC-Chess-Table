@@ -16,7 +16,7 @@ The page was created as part of the [Front End Developer Course by Orange DC](ht
 
 ### Links
 
-[Solution URL]()
+[Chess table page URL](https://axinitm.github.io/ODC-Chess-Table/)
 
 ### The task and my comments
 
