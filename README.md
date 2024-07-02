@@ -16,7 +16,7 @@ The page was created as part of the [Front End Developer Course by Orange DC](ht
 
 ### Links
 
-[Solution URL](https://axinitm.github.io/ODC-404-page/)
+[Solution URL]()
 
 ### The task and my comments
 
